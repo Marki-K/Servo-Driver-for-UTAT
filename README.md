@@ -7,4 +7,6 @@ Some features are:
 - External clock
 - Connection to Arduino
 
+In this repository I left both a photo of the schematic and of the pcb, both made in Altium designer.
+
 Rights reserved to UTAT Rocketry, Markiyan Konyk and Memo Ozdincer 2025
