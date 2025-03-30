@@ -6,3 +6,5 @@ Some features are:
 - IC2 Address
 - External clock
 - Connection to Arduino
+
+Rights reserved to UTAT Rocketry, Markiyan Konyk and Memo Ozdincer 2025
